@@ -36,16 +36,22 @@
 <div>
 	<div id="contentright">
 			<div class="gallerybox gallermargin1">
+				<div class="gallery"></div>
 		</div>
 			<div class="gallerybox gallerymargin1">
+				<div class="gallery"></div>
 		</div>
 			<div class="gallerybox">
+				<div class="gallery"></div>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
+					<div class="gallery"></div>
 		</div>
-			<div class="gallerybox gallerymargin1 gallerymargin2">
+			<div class="gallerybox gallerymargin1 gallerymargin2">		
+				<div class="gallery"></div>
 		</div>
 			<div class="gallerybox gallerymargin2">
+					<div class="gallery"></div>
 		</div>
 </body>
 </html>
