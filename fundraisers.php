@@ -36,8 +36,8 @@
 <!-- 	left content -->
 	<div class="mainDiv" id="left">
 			<div></br></br>
-			<h2>Drive One</h2><hr>Drive One information
-		</div></br></div>
+			<h2>Drive One</h2><hr>Drive One information	|	Currently Unavailable
+			</div></br></div>
 <!-- 		right content -->
 		<div class="mainDiv" id="right">
 			<div></br></br>
