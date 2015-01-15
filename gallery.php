@@ -33,5 +33,19 @@
 		</nav>
 	</div>
 <!-- End Nav Bar -->
+<div>
+	<div id="contentright">
+			<div class="gallerybox gallermargin1">
+		</div>
+			<div class="gallerybox gallerymargin1">
+		</div>
+			<div class="gallerybox">
+		</div>
+			<div class="gallerybox gallerymargin1 gallerymargin2">
+		</div>
+			<div class="gallerybox gallerymargin1 gallerymargin2">
+		</div>
+			<div class="gallerybox gallerymargin2">
+		</div>
 </body>
 </html>

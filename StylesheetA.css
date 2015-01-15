@@ -15,7 +15,7 @@
 	background-color: #666;
 	float: right;
 }
-/* Gallery*/
+ 
 .gallerybox {
 	width: 210px;
 	height: 400px;
@@ -26,12 +26,10 @@
 	margin-right: 10px;
 }
 .gallerymargin2 {
-	margin-right: 10px;
-}
-.gallerytop {
 	margin-top: 10px;
 }
 .gallery{
+	background-color: black;
  	height: 130px;
  	width: 100px;
 }
