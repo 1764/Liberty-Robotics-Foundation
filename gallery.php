@@ -33,30 +33,5 @@
 		</nav>
 	</div>
 <!-- End Nav Bar -->
-	<div id="contentright">
-			<div class="gallerybox gallermargin1">
-			<div class="gallery"><img src="img/Test.jpg"></div>
-			<p>Testing</p>
-		</div>
-			<div class="gallerybox gallerymargin1">
-			<div class="gallery"><img src="img/002.jpg"></div>
-			<p>Robot Builds me mascot</p>
-		</div>
-			<div class="gallerybox">
-			<div class="gallery"><img src="img/005.jpg"></div>
-			<p>Group Team Photo</p>
-		</div>
-			<div class="gallerybox gallerymargin1 gallerymargin2 gallerytop">
-			<div class="gallery"><img src="img/compete.jpg"></div>
-			<p>2014 Cow Town</p>
-		</div>
-			<div class="gallerybox gallerymargin1 gallerymargin2 gallerytop">
-			<div class="gallery"><img src="img/009.jpg"></div>
-			<p>Drive for your school</p>
-		</div>
-			<div class="gallerybox gallerymargin2 gallerytop">
-			<div class="gallery"><img src="img/teamWork.jpg"></div>
-			<p>Team voting</p>
-		</div>
 </body>
 </html>
