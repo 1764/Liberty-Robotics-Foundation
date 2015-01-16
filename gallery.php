@@ -37,7 +37,6 @@
 	<div id="contentright">
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><div class="boxed"><img class="galleryimage" src="img/Team.jpg"></div></div>
-				<div class="p">The Liberty Robotics Team</div>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/001.jpg"></div>
