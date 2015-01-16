@@ -23,11 +23,11 @@
 	float: left;
 }
 .gallerymargin1 {
-	margin-right: 10px;
+	margin-right: 20px;
 	margin-left: 50px;
 }
 .gallerymargin2 {
-	margin-top: 20px;
+	margin-top: 40px;
 }
 .gallery {
 	background-color: black;
@@ -35,8 +35,10 @@
  	width: 100px;
 }
 .galleryimage {
-	height:200;
+	height: 200;
 	width: 350;
-	border: 5px solid white ;
-  width: 350px;
+	border: 10px double white;
+	background: #DFBB24;
+	outline: 3px solid black;
+  	width: 350px;
 }
