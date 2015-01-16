@@ -17,19 +17,26 @@
 }
  
 .gallerybox {
-	width: 210px;
-	height: 400px;
+	width: 350px;
+	height: 200px;
 	background-color: #000;
 	float: left;
 }
 .gallerymargin1 {
 	margin-right: 10px;
+	margin-left: 50px;
 }
 .gallerymargin2 {
-	margin-top: 10px;
+	margin-top: 20px;
 }
-.gallery{
+.gallery {
 	background-color: black;
- 	height: 130px;
+ 	height: 130px; 
  	width: 100px;
+}
+.galleryimage {
+	height:200;
+	width: 350;
+	border: 5px solid white ;
+  width: 350px;
 }
