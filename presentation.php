@@ -33,5 +33,11 @@
 		</nav>
 	</div>
 	<!-- End Nav Bar -->
+	<div class="left"><iframe class="media" width="560" height="315" frameborder="0" allowfullscreen></iframe></br><div class="vidDesc"></br></div></div>
+		<div class="mainDiv" id="right">
+			<div></br></br>
+<!-- 			Insert content			 -->
+		</div></br></div>
+		<div class="clear"></div>
 </body>
 </html>
