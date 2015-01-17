@@ -36,12 +36,12 @@
 <!-- 	left content -->
 	<div class="mainDiv" id="left">
 			<div></br></br>
-			<h2>Drive One</h2><hr>Drive One information	|	Currently Unavailable
+			<h2>Drive One</h2><img src="img/008.jpg"><hr>Drive One information	|	Currently Unavailable
 			</div></br></div>
 <!-- 		right content -->
 		<div class="mainDiv" id="right">
 			<div></br></br>
-			<h2>Trivia Night</h2><hr>Trivia Night information
+			<h2>Trivia Night</h2><hr>Trivia Night information 	|	Currently Unavailable
 			</div></br></div>
 		<div class="clear"></div>
 </body>
