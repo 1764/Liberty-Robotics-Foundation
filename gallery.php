@@ -37,39 +37,51 @@
 	<div id="contentright">
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><div class="boxed"><img class="galleryimage" src="img/Team.jpg"></div></div>
+				<p>FIRST Liberty robotics team</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/001.jpg"></div>
+				<p>2014 Fall Festival stand</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/compete.jpg"></div></div>
+				<p>2014 Cow Town</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/004.jpg"></div></div>
+				<p>Massive Mini group photo</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">		
 				<div class="gallery"><img class="galleryimage" src="img/007.jpg"></div></div>
+				<p>2014 Fall Festival Parade</p>
 		</div>
 			<div class="gallerybox  gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/002.jpg"></div></div>
+				<p>Robot Builds Me goes for a ride</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/009.jpg"></div></div>
+				<p>Drive for your school</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/005.jpg"></div></div>
+				<p>Massive Mini group photo</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/austin.jpg"></div></div>
+				<p>Austin telling his idea of what the 2015 robot should be</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/004.jpg"></div></div>
+				<p>Massive Mini group photo</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">		
 				<div class="gallery"><img class="galleryimage" src="img/Highway.jpg"></div></div>
+				<p>Liberty team cleans trash off the highway</p>
 		</div>
 			<div class="gallerybox  gallerymargin1 gallerymargin2">
-				<div class="gallery"><img class="galleryimage" src="img/Science.jpg"></div></div>
+				<div class="gallery"><img class="galleryimage" src="img/teamWork.jpg"></div></div>
+				<p>Team comes together to rate on the robot</p>
 		</div>
 	</div>
 </body>
