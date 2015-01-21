@@ -139,7 +139,7 @@ nav {
 }
 nav ul {
 	font-size: 20px;
-	margin-right: auto;
+	margin: center;
 	list-style: none;
 }
 nav ul li {
