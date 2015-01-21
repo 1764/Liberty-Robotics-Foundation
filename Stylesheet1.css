@@ -195,8 +195,7 @@ nav {
 nav ul {
   	font-family: Arial, Verdana;
   	font-size: 100%;
-  	margin: 0;
-  	padding: 0;
+  	display: inline-block;
   	list-style: none;
 }
 nav ul li {

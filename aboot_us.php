@@ -45,7 +45,7 @@
 		middle schools.</br></br> The foundation of 
 		also promotes the work of the KC STEM Alliance, Project Lead The Way and FIRST 
 		Robotics in generating interest in the fields 
-		of science, technology, engineering and mathematics.</br></br></div
+		of science, technology, engineering and mathematics.</br></br></div>
 	<!-- FIRST - STEM - PLTW -->	
 		<div class="Sponsor"><img class="sponLogo" src="img/FIRST.png" alt=""><div class="spacer">Secret Text</div><img class="sponLogo" src="img/FRCLogoLarge.png" alt=""></br>
 		<div class="spacer">Secret Text</div>FIRST was founded in 1989 to inspire young people's interest and participation in science 

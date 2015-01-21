@@ -36,6 +36,7 @@
 	
 	<div class="mainDiv" id="left">
 			<div></br></br>
+			<p>Information is unavailable</p> 
 <!-- 			Insert content			 -->
 		</div></br></div>
 		<div class="mainDiv" id="right">
