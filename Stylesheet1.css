@@ -10,18 +10,18 @@ html {
 
 /* The header */
 .header{
+	margin-bottom:-1.45%;
 	width:100%;
 }
 
 /* 	Mission header image */
 .divHead {
-	width: 50%;
-	margin-left:24%;
+	width: 60%;
 }
 
 .mainDiv {
-	z-index:-8;
 	width: 33em;
+	margin: 2em;
 	position:relative;
 	padding: 1em;
 	background: rgba(0, 0, 0, .60);
@@ -29,64 +29,12 @@ html {
 /* Right hand information */
 #left {
 	float: left;
-	margin: 2em;
 }
-
-.media {
-	margin-left:20%;
-}
-
-.left h2 {
-	text-align:center;
-	background-color:#DFBB24;
-	border-style:double;
-	border-color:black;
-	border-width:.25em;
-	color:black;
-}
-
 #right {
 /* Mission information */
 	float: right;
-	margin: 2em;
 }
-.left {
-	text-align:left;
-	width:75%;
-	float:left;
-	background-color: rgba(0,0,0,.4);
-	padding:1em;
-	margin:3em;
-	margin-bottom:0em;
-}
-.right {
-/* Mission information */
-	text-align:right;
-	float:right;
-	width:75%;
-	background-color: rgba(0,0,0,.4);
-	padding:1em;
-	margin:3em;
-	margin-bottom:0em;
-}
-.full {
-	width: 90%;
-	margin-top:3em;
-	padding:1em;
-	overflow:hidden;
-}
-.calendar {
-	margin: 3em;
-	margin-left:20%;
-	padding: 1em;
-	background-color:rbga(0,0,0,.40)
-}
-.teamImg {
-	position:relative;
-	float:right;
-	width:25em;
-	margin:1em;
-}
+
 /* Background Image */
 .rightIMG {
 	width: 100%;
@@ -95,9 +43,7 @@ html {
 }
 
 .fouAU {
-	width: 97%;
-    border-style: double;
-    border-width: .25em;
+	width: 100%;
 }
 
 /* Helps with keeping divs in their place */
@@ -143,15 +89,15 @@ html {
 .carousel{
     overflow:hidden;
     width:100%;
+    height: 75%;
     position:absolute;
-    z-index: -16;
 }
 
 .panes{
     list-style:none;
     position:relative;
     margin: 0;
- 	padding: 0;
+    padding: 0;
     width:400%; /* Number of panes * 100% */
     overflow:hidden; /* This is used solely to clear floats, it does not add functionality. */
         
@@ -167,87 +113,57 @@ html {
 .carousel img{
     display:block;
     width:100%;
+    height: 100%;
     max-width:100%;
 }
 .carousel h2{
-	border-radius:.5em;
     font-size:1em;
-    padding:1em;
+    padding:0.5em;
     position:absolute;
-    width: 25em;
-    margin:3em;
-    margin-left:5em;
-    text-align:left;
+    width: 40%;
+    right:10px;
+    top:6%;
+    left:3%;
+    text-align:center;
     color:#fff;
     background-color:rgba(0,0,0,0.45);
 }
 
 /* START NAV MENU */
 nav {
-	z-index:16;
-	background: -webkit-linear-gradient(#353535, #1a1a1a); /* For Safari 5.1 to 6.0 */
-  	background: -o-linear-gradient(#353535, #1a1a1a); /* For Opera 11.1 to 12.0 */
-  	background: -moz-linear-gradient(#353535, #1a1a1a); /* For Firefox 3.6 to 15 */
-  	background: linear-gradient(#353535, #1a1a1a); /* Standard syntax */
-	height:6%;
-	text-align:center;
+	background: -webkit-linear-gradient(#505050, #353535); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#505050, #353535); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#505050, #353535); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#505050, #353535); /* Standard syntax */
+	height:40px;
 }
 nav ul {
-  	font-family: Arial, Verdana;
-  	font-size: 100%;
-  	margin: 0;
-  	padding: 0;
-  	list-style: none;
+	font-size: 20px;
+	margin-right: auto;
+	list-style: none;
 }
 nav ul li {
-  	display: block;
-  	position: relative;
-  	float: left;
-}
-nav li ul { 
-  	display: none; 
-  	cursor: pointer;
+	display: block;
+	float: left;
 }
 nav ul li a {
-	font: 100% "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 17px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	display: block;
 	text-decoration: none;
 	padding: 7px 20px 3px 20px;
-	background: -webkit-linear-gradient(#353535, #1a1a1a); /* For Safari 5.1 to 6.0 */
-  	background: -o-linear-gradient(#353535, #1a1a1a); /* For Opera 11.1 to 12.0 */
-  	background: -moz-linear-gradient(#353535, #1a1a1a); /* For Firefox 3.6 to 15 */
-  	background: linear-gradient(#353535, #1a1a1a); /* Standard syntax */
-	color: #ffffff;
-	margin: 0;
-	height:75%;
-	width:70%;
+	background: -webkit-linear-gradient(#505050, #353535); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#505050, #353535); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#505050, #353535); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#505050, #353535); /* Standard syntax */
+	color: #000000;
+	margin-left: 5px;
+	margin-right: 5px;
+	height:30px;
+	width:90px;
 	text-align:center;
 	-webkit-transition: ease 0.25s color; 
 }
-
-nav ul li a:hover { 
-  	background: #454545; 
- 	cursor: pointer;
-}
-nav li:hover ul {
-  	display: block;
-  	position: absolute;
-  	height:75%;
-}
-nav li:hover li {
-  	float: none;
-  	font-size: 100%;
-}
-nav li:hover a { 
-  	background: #454545; 
-  	height:75%; /* Height of lower-level nav items is shorter than main level */
-	cursor: pointer;
-}
-nav li:hover li a:hover { 
-	background: #545454; 
-	cursor: pointer;
-}
-nav ul li ul li a {
-    text-align:left; /* Top-level items are centered, but nested list items are left-aligned */
+nav ul li a:hover {
+	color:#384A9F;
 }
 /* END NAV MENU */
