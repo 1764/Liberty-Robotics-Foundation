@@ -50,10 +50,6 @@
      			 <img src="img/teamWork.jpg" alt="">
     		</li>
 			<li>
-      			<h2>FIRST<sup>&#174;</sup> Team 1764 in all of its splendor and glory!</h2>
-      			<img src="img/004.JPG" alt="">
-    		</li>
-			<li>
       			<h2>Working to prepare for the 2015 game RECYCLE RUSH.</h2>
       			<img src="img/007.jpg" alt="">
     		</li>
