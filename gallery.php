@@ -36,17 +36,15 @@
 <div>
 	<div id="contentright">
 			<div class="gallerybox gallerymargin1 gallerymargin2">
-				<div class="gallery"><div class="boxed"><img class="galleryimage" src="img/Team.jpg"></div></div>
-				<p>FIRST Liberty robotics team</p>
+				<div class="gallery"><div class="boxed"><img class="galleryimage" src="img/Team.jpg"></div></div
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/001.jpg"></div>
-				<p>2014 Fall Festival stand</p>
 		</div>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/compete.jpg"></div></div>
 				<p>2014 Cow Town</p>
-		</div>
+		</div>>
 			<div class="gallerybox gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/004.jpg"></div></div>
 				<p>Massive Mini group photo</p>
@@ -81,7 +79,7 @@
 		</div>
 			<div class="gallerybox  gallerymargin1 gallerymargin2">
 				<div class="gallery"><img class="galleryimage" src="img/teamWork.jpg"></div></div>
-				<p>Team comes together to rate on the robot</p>
+				<p>Team comes together to rate on the robot</p>            
 		</div>
 	</div>
 </body>
