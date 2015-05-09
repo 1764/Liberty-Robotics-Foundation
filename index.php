@@ -2,46 +2,18 @@
 <head>
 	<!-- Title | Changeable -->
 	<title>Home</title>
-	<link rel="Stylesheet" type="text/css" href="Stylesheet1.css">
+	<link rel="Stylesheet" type="text/css" href="css/bootstrap.css">
+<!-- 	<link rel="Stylesheet" type="text/css" href="/css/stylesheet1.css"> -->
 	<script src="jquery-1.11.2.min.js"></script>
-	<link rel="icon" 
+	<link rel="icon"
             type="image/png" 
             href="img/extra gears.png"></a>
 </head>
 <body class="body">
-	<div class="main">
-		<img class="header" src="img/LRF Bar.png">
-<!-- 		<img class="header" src="img/small bar.png"> -->
-		
-	
-	</div>
+	<img src="img/header/large.png" alt="Banner" width="100%">
 	<?php include './base/navBar.html';?>
-	<!-- Content -->
-	
-	<!-- Left-hand content (background)-->
-	
 	<!-- carousel -->
-	
-	<div class=carousel>
-  		<ul class=panes>
-    		<li>
-      			<h2>Special thanks to all of our sponsors for their support of our program</h2>
-     			 <img src="img/teamWork.jpg" alt="">
-    		</li>
-			<li>
-      			<h2>FIRST<sup>&#174;</sup> Team 1764 in all of its splendor and glory!</h2>
-      			<img src="img/004.JPG" alt="">
-    		</li>
-			<li>
-      			<h2>Working to prepare for the 2015 game RECYCLE RUSH.</h2>
-      			<img src="img/007.jpg" alt="">
-    		</li>
-    		<li>
-      			<h2>Cowtown Throw-down 2014</h2>
-      			<img src="img/compete.jpg" alt="">
-    		</li>
-		</ul>
-	</div>
+	<?php include './base/carousel.php';?>
 	
 	<!-- Bacground image Obsolete, but optional -->
 	<!-- <div><img class="rightIMG" src="test.jpg"></div> -->
@@ -53,5 +25,13 @@
 	</br><div>We are committed to providing funding for the continues growth of all FIRST teams within the Liberty School District. These teams include the FRC Liberty Robotics Teams 1764
 	at the high schools, Tech Challenge, FLL and Jr. FLL teams at the elementary and middle schools.</div></div>
 	-->
+	
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
 </body>
 </html>
