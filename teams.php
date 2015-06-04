@@ -1,7 +1,7 @@
 <html>
 <head>
 	<!-- Title | Changeable -->
-	<title>Fundraiser</title>
+	<title>Teams</title>
 	<link rel="Stylesheet" type="text/css" href="css/bootstrap.css">
 <!-- 	<link rel="Stylesheet" type="text/css" href="/css/stylesheet1.css"> -->
 	<script src="jquery-1.11.2.min.js"></script>
@@ -11,26 +11,16 @@
 </head>
 <body class="body">
 	<img src="img/header/small.png" alt="Banner" width="100%">
-	<?php include './base/navBar.html';?>
-	<div class="col-md-6">
+	<?php include './base/navBar.html';?><div>
+	<div class="col-md-12">
 		<div class="panel panel-default">
-			<div class="panel-heading">
-				<h3 class="panel-title">Drive One</h3>
+			<div class="panel-heading">FRC Team 1764</div>
+  			<div class="panel-body">
+    			<!-- Foundation Members -->
+				Team 1764 is amazing
 			</div>
-			<div class="panel-body">
-				Drive One Information
-			</div>
-		</div>
-	</div>
-	<div class="col-md-6">
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<h3 class="panel-title">Trivia Night</h3>
-			</div>
-			<div class="panel-body">
-				Trivia Night Information
-			</div>
-		</div>
+  			</div>
+  		</div>
 	</div>
 	<!-- Bootstrap core JavaScript
     ================================================== -->
